@@ -4220,7 +4220,7 @@
     "tags": [
       "gaming"
     ],
-    "description": "A decentralized PVP betting platform built on the Ethereum Virtual Machine (EVM). By enabling interaction with contracts through simple transfers, players can participate in bets without the need to connect a wallet or register. Rewards are automatically distributed once results are announced, ensuring a safe, convenient, and fast process.",
+    "description": "A decentralized PVP betting platform built on the Ethereum Virtual Machine (EVM). Focused on short-term prediction markets, while also allowing players to create their own predictions and earn profits. Players can participate in betting simply by making a transfer. Once the result is confirmed, rewards are automatically distributed. Throughout the process, players do not need to connect wallets or register, ensuring a safer, simpler, and faster experience.",
     "url": "https://pvpbet.xyz/",
     "imageUrl": "/images/partners/pvpbet.png"
   }
